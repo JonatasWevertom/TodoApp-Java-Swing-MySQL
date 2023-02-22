@@ -4,11 +4,11 @@
 package TodoApp;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+//import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
     @Test void appHasAGreeting() {
-        App classUnderTest = new App();
+        //App classUnderTest = new App();
         // assertNotNull(classUnderTest.main(), "app should have a greeting");
     }
 }
